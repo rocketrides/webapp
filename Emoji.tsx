@@ -24,7 +24,6 @@ type EmojiID =
   | 'ab'
   | 'abc'
   | 'abcd'
-  | 'accept'
   | 'aerial_tramway'
   | 'airplane'
   | 'alarm_clock'
