@@ -1,5 +1,6 @@
 import React, { useCallback } from 'react';
 
+
 type Props = { id: EmojiID };
 
 export default function Emoji({ id }: Props) {
